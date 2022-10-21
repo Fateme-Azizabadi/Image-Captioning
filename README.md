@@ -87,7 +87,7 @@ The network architecture is shown in the figure below.
 
 ![](https://github.com/Fateme-Azizabadi/Image-Captioning/blob/main/Images/output1.png)
 
-![](https://github.com/Fateme-Azizabadi/Image-Captioning/blob/main/Images/output1.png)
+![](https://github.com/Fateme-Azizabadi/Image-Captioning/blob/main/Images/output2.png)
 
 
 
